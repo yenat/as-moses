@@ -1,4 +1,4 @@
-
+ADD_SUBDIRECTORY (atomese)
 ADD_SUBDIRECTORY (comboreduct)
 ADD_SUBDIRECTORY (moses)
 ADD_SUBDIRECTORY (feature-selection)
