@@ -7,7 +7,7 @@
 */
 #include <opencog/atoms/base/Link.h>
 #include <opencog/atoms/base/Node.h>
-#include <opencog/atomspace/AtomSpace.h>    unsigned long j=0;
+#include <opencog/atomspace/AtomSpace.h>   
 
 #include "atomese_representation.h"
 #include <opencog/guile/SchemeEval.h>
